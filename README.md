@@ -19,8 +19,9 @@ Select any two models from 400+ LLMs and compare them on:
 
 ## Data Sources
 
-- [OpenRouter](https://openrouter.ai) — pricing, context length, token limits
-- [Artificial Analysis](https://artificialanalysis.ai) — benchmark scores, latency, output speed
+
+ [OpenRouter](https://openrouter.ai) — pricing, context length, and token limits
+- [Artificial Analysis](https://artificialanalysis.ai) — benchmark scores, latency, \output speed
 
 ---
 
